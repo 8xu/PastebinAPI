@@ -1,0 +1,1 @@
+### Read PASTEBIN API documentation [here](https://pastebin.com/doc_api).
